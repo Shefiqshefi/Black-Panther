@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════🥷BLACK PANTHER🥷═════╗*\n           \n*🖤Black panther🖤*\n\n*owner Shefiq - http://Wa.me/+919526128516*\n* *\n🔰instagram:- https://tinyurl.com/yzggupur*            *\n*╚══════💖💖💖💖═════╝*\n\n*▷Creator: Shefiq*"
+    r_text[1] = "*╔═══🥷BLACK PANTHER🥷═══╗*\n           \n*🖤Black panther🖤*\n\n*owner Shefiq - http://Wa.me/+919526128516*\n* *\n🔰instagram:- https://tinyurl.com/yzggupur*            *\n*╚══════💖💖💖💖═════╝*\n\n*▷Creator: Shefiq*"
 
     
 
@@ -32,7 +32,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═Black panther Owner Shefiq═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
 
     
 

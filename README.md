@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hish
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/hisham___muhammed__?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://tinyurl.com/yzgp6539" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
 <p align="center">
@@ -53,7 +53,7 @@ Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hish
 Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IaGka4iXWheDaHkhKi3mKm)
 
 ## 
   <h3 align="center">ðŸ“¢ Support Group 2:</h3>

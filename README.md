@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hish
 <p align="center">
 <a href="https://tinyurl.com/yzgp6539" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
+<h4 align="center">Support my youtube channel ðŸ‘‡:</h4>
 <p align="center">
 <a href="https://youtube.com/channel/UCTd99YNlTlAJDkPzEXddung" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>

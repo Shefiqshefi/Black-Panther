@@ -87,7 +87,7 @@
             "PRO_DES": "*🗨️ Description :*"
         },
         "heroku": {
-            "RESTART_DESC": "\nRestart pinkymwol\n",
+            "RESTART_DESC": "\nRestartBlack Panther\n",
             "RESTART_MSG": "```punararambikkunu...```",
             "SHUTDOWN_DESC": "\nShutdown pinkymwol\n",
             "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
@@ -232,7 +232,7 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*Black Panther bot is upto date!*",
-            "NEW_UPDATE": "*Black Panther Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group-link: https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ * \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*Black Panther Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group-link: https://chat.whatsapp.com/IaGka4iXWheDaHkhKi3mKm * \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```updating wait few miniuts```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",

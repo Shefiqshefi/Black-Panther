@@ -1,14 +1,14 @@
-# Sophia
+# Black Panther
 Simple whatsapp bot | Reedited from whatsasena 
 
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/SomHqFp.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Black Panther" src="https://img.shields.io/badge/Black Panther-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/Author-Shefiq-sha/Black Panther?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">

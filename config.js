@@ -39,7 +39,7 @@ module.exports = {
     THERI_KICK: process.env.THERI_KICK === undefined ? 'true' : process.env.THERI_KICK,
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
-    CAPTION_KEY: process.env.CAPTION_KEY === undefined ?'Made by SOPHIA' : process.env.CAPTION_KEY,
+    CAPTION_KEY: process.env.CAPTION_KEY === undefined ?'Made by Black Panther ' : process.env.CAPTION_KEY,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://i.imgur.com/ZoA7as9.mp4' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/NTar8dQ.mp4' : process.env.GIF_BYE,

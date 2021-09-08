@@ -32,7 +32,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git link*\n           *\n🥷 BLACK PANTHER 🥷*       👨‍🎤 Owner Shefiq\n\n 👨‍🎤      🧚‍♂️ https://github.com/Shefiqshefi/Black-Panther 🧚‍♂️\n"
+        r_text[1] = "*Git link*\n           \n🥷 BLACK PANTHER 🥷                            👨‍🎤 Owner Shefiq\n\n 👨‍🎤                            🧚‍♂️ https://github.com/Shefiqshefi/Black-Panther 🧚‍♂️\n"
 
     
 
@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git link*\n           \n🥷 Black panther 🥷        👨‍🎤 Owner Shefiq\n\n 👨‍🎤      🧚‍♂️ https://github.com/Shefiqshefi/Black-Panther 🧚‍♂️\n"
+        r_text[1] = "*Git link*\n           \n🥷 Black panther 🥷                           👨‍🎤 Owner Shefiq\n\n 👨‍🎤                            🧚‍♂️ https://github.com/Shefiqshefi/Black-Panther 🧚‍♂️\n"
 
     
 

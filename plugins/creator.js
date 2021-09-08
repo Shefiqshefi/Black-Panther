@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═🥷BLACK PANTHER🥷═╗*\n           *\n🥷 BLACK PANTHER 🥷\n\n*owner Shefiq - http://Wa.me/+919526128516\n \n🔰instagram:- https://tinyurl.com/yzggupur            \n╚════💖💖💖💖═══╝\n\n🧞‍♂️Creator: Shefiq"
+    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham - http://Wa.me/+919400374036*\n* *\n🔰instagram:- https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Hisham-Muhammed*"
 
     
 
@@ -32,7 +32,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git link*\n           \n🥷 BLACK PANTHER 🥷  Owner Shefiq\n\n  🧚‍♂️ https://github.com/Shefiqshefi/Black-Panther 🧚‍♂️\n"
+        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
 
     
 
@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═🥷BLACK PANTHER🥷═╗*\n           \n🥷 Black panther 🥷\n\nowner Shefiq - http://Wa.me/+919526128516\n \n🔰Youtube: https://tinyurl.com/yzggupur            \n╚════💖💖💖💖═══╝\n\n🧞‍♂️Creator: Shefiq"
+    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham-Muhammed - http://Wa.me/+919400374046*\n* *\n🔰Youtube: https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Hisham-Muhammed*"
 
     
 
@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git link*\n           \n🥷 Black panther 🥷  Owner Shefiq\n\n  🧚‍♂️ https://github.com/Shefiqshefi/Black-Panther 🧚‍♂️\n"
+        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
 
     
 
@@ -85,4 +85,3 @@ if (Config.WORKTYPE == 'private') {
         }));    
 
     }
-
